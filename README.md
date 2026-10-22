@@ -1,52 +1,43 @@
-# [IPO Track](https://ipotrack.in) — Live IPO GMP Today, Upcoming List & Allotment Status
+# [IPO Track](https://ipotrack.in) — IPO GMP, Subscription Status & Allotment Tracker for India
 
-[**IPO Track**](https://ipotrack.in) is India's leading financial information portal dedicated to Initial Public Offerings (IPOs). We provide retail investors, traders, and market enthusiasts with real-time tracking of Grey Market Premium (GMP), live subscription percentages, allotment statuses, and listing performance for both **Mainboard** and **SME** issues.
+[**IPO Track**](https://ipotrack.in) is a free website for following Indian IPOs. It brings together grey market premium (GMP), day-wise subscription, allotment dates, registrar links and listing performance for **Mainboard** and **SME** issues in one place.
 
-Our mission is to simplify IPO investing by delivering clean, accurate, and real-time market insights without the noise.
-
----
-
-## 📈 Real-Time IPO Intelligence Portals
-
-Navigate directly to our key tracking dashboards:
-
-*   **[Live IPO GMP Today](https://ipotrack.in/ipo-gmp)** — Track live grey market premiums, check daily GMP movements, and review estimated listing price ranges.
-*   **[Upcoming IPOs Calendar](https://ipotrack.in/upcoming-ipo)** — Plan your investments with a comprehensive timeline of upcoming Mainboard and SME IPO listings.
-*   **[Live & Open IPOs](https://ipotrack.in/live-ipo)** — View current IPOs open for subscription, bidding dates, lot sizes, and live subscription status.
-*   **[Listed IPO Performance](https://ipotrack.in/listed-ipo)** — Analyze listing day gains, issue prices, and current market prices of recently listed companies.
-*   **[SME IPO Directory](https://ipotrack.in/sme-ipo)** — Dedicated tracking dashboard for Small and Medium Enterprise (SME) IPOs.
-*   **[Mainboard IPO Directory](https://ipotrack.in/mainboard-ipo)** — Detailed reviews, financial metrics, and tracking for major corporate listings on the BSE and NSE.
+Built for retail investors who want the key numbers for an IPO without jumping between ten different sites.
 
 ---
 
-## 🧮 Free IPO Decision-Making Tools
+## 📈 IPO Trackers
 
-Avoid guesswork and use our mathematically backed calculators to plan your bidding:
-
-*   **[IPO Listing Gain Calculator](https://ipotrack.in/tools/listing-gain-calculator)** — Input the issue price and current GMP to instantly estimate your expected listing profits.
-*   **[IPO Allotment Chances Calculator](https://ipotrack.in/tools/allotment-chances-calculator)** — Calculate your probability of getting an allotment in different categories (Retail or HNI) based on current subscription ratios.
-
----
-
-## 🔍 Step-by-Step Allotment Status Guides
-
-Did you apply for an IPO? Check your status instantly:
-
-*   **[IPO Allotment Status Page](https://ipotrack.in/ipo-allotment)** — Full step-by-step guides for checking allotment results online across major registrars.
-*   **[Allotment Status Check Links](https://ipotrack.in/ipo-allotment-status)** — Direct, fast links to registrar portals (Link Intime, KFintech, Maashitla, Bigshare, Skylark, etc.) to view your application status.
+* **[IPO GMP Today](https://ipotrack.in/ipo-gmp)** — Latest grey market premium for open and upcoming IPOs, with estimated listing price.
+* **[Upcoming IPOs](https://ipotrack.in/upcoming-ipo)** — Announced Mainboard and SME IPOs with dates, price band and lot size.
+* **[Open IPOs](https://ipotrack.in/live-ipo)** — IPOs currently open for bidding, with subscription status by category.
+* **[IPO Calendar](https://ipotrack.in/ipo-calendar)** — Open, close, allotment and listing dates at a glance.
+* **[Listed IPOs](https://ipotrack.in/listed-ipo)** — Listing price, listing gain and performance since listing.
+* **[SME IPOs](https://ipotrack.in/sme-ipo)** · **[Mainboard IPOs](https://ipotrack.in/mainboard-ipo)** — Full lists by segment.
 
 ---
 
-## 💡 Why Track IPOs with Us?
+## 🧮 Free Calculators
 
-*   **Real-Time Data**: Fast, automated updates on grey market premiums and subscription rates.
-*   **No Clutter**: A clean, modern dark-mode user interface designed for maximum readability.
-*   **AI-Powered Insights**: Regular blog analysis on the latest market trends, IPO reviews, and educational guides.
-*   **Free Email Alerts**: Subscribe to get verified daily morning GMP summaries delivered straight to your inbox.
+* **[Listing Gain Calculator](https://ipotrack.in/tools/listing-gain-calculator)** — Estimate listing profit from issue price and GMP.
+* **[Allotment Chances Calculator](https://ipotrack.in/tools/allotment-chances-calculator)** — Estimate your odds of allotment in the Retail or HNI category from subscription numbers.
 
 ---
 
-## ✉️ Connect With Us
+## 🔍 Check IPO Allotment Status
 
-Have any questions, feedback, or business partnership inquiries? 
-*   Visit our **[Contact Page](https://ipotrack.in/contact)** to drop us a message.
+* **[How to Check IPO Allotment](https://ipotrack.in/ipo-allotment)** — Step-by-step guide for registrar websites, BSE and NSE.
+* **[Allotment Status Links](https://ipotrack.in/ipo-allotment-status)** — Direct links to registrar portals: MUFG Intime, KFin Technologies, Bigshare, Skyline, Maashitla, Cameo and more.
+
+---
+
+## 🛠️ Built With
+
+Next.js · PostgreSQL · Prisma · Nginx · Cloudflare
+
+Built and maintained by Jenesh in Surat, India.
+Updates: [X](https://x.com/ipotrack_in) · [Telegram](https://t.me/ipotrack_in) · [LinkedIn](https://www.linkedin.com/company/ipotrack-in) · [Contact](https://ipotrack.in/contact)
+
+---
+
+> ⚠️ **Disclaimer:** IPO Track provides information for educational purposes only. We are not SEBI-registered and nothing here is investment advice. GMP is unofficial and indicative only; always read the RHP and consult a registered adviser before investing.
